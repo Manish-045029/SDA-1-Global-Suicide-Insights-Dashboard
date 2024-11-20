@@ -10,9 +10,6 @@ Provide actionable insights for stakeholders and policymakers to focus on the mo
 
 ## Charts
 
-![Uploading Global Suicide Insights.png…]()
-
-
 ### Total Countries (101)
 Represents the total number of countries analyzed in the dataset, ensuring global coverage.
 ### Total Suicides (6.748M)
