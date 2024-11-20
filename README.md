@@ -10,7 +10,8 @@ Provide actionable insights for stakeholders and policymakers to focus on the mo
 
 ## Charts
 
-https://github.com/Manish-045029/SDA-1-Global-Suicide-Insights-Dashboard/tree/main
+![Uploading Global Suicide Insights.png…]()
+
 
 ### Total Countries (101)
 Represents the total number of countries analyzed in the dataset, ensuring global coverage.
