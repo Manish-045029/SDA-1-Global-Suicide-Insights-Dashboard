@@ -17,37 +17,37 @@ Represents the total number of countries analyzed in the dataset, ensuring globa
 ### 2. Total Suicides (6.748M)
 Displays the cumulative number of suicides recorded between 1987 and 2014.
 
-### Suicide Count as a Proportion of Population
+### 3. Suicide Count as a Proportion of Population
 Visualizes suicide counts relative to the world population during the period, emphasizing the gravity of the issue.
 
-### Country with Most Suicides (Russian Federation)
+### 4. Country with Most Suicides (Russian Federation)
 Highlights the country with the highest recorded suicide count, focusing attention on potential regional concerns.
 
-### Suicide Rates by Country (Map)
+### 5. Suicide Rates by Country (Map)
 A heatmap showing average suicide rates per 100,000 people by country. Darker colors indicate higher rates, emphasizing regions with severe suicide trends.
 
-### Gender-Wise Suicide Count (Pie Chart)
+### 6. Gender-Wise Suicide Count (Pie Chart)
 Displays the proportion of suicides by gender, revealing disparities in male (dominant) versus female suicide rates globally.
 
-### Age-Wise Suicide Numbers by Gender (Stacked Bar)
+### 7. Age-Wise Suicide Numbers by Gender (Stacked Bar)
 Breaks down suicide counts by age group and gender, showing increasing trends in older age groups and significant gender differences.
 
-### Yearly Suicide Trends by Country (Line Chart)
+### 8. Yearly Suicide Trends by Country (Line Chart)
 Tracks suicide counts over time for selected countries, uncovering temporal patterns and potential causes such as economic crises or cultural shifts.
 
-### Generation-Wise Distribution (Pie Chart)
+### 9. Generation-Wise Distribution (Pie Chart)
 Segments suicides by generational cohorts, e.g., Baby Boomers and Millennials, offering sociological insights into trends.
 
-### Suicide Rates Over Generations by Year (Heatmap)
+### 10. Suicide Rates Over Generations by Year (Heatmap)
 Shows yearly suicide rates across generations, with intensity depicting rates per 100k people, highlighting specific generational vulnerabilities.
 
-### Correlation Between GDP and Suicide Rate (Scatter Plot)
+### 11. Correlation Between GDP and Suicide Rate (Scatter Plot)
 Explores the relationship between GDP per capita and suicide rates, with clustering patterns indicating economic disparity influences.
 
-### Average Suicide Rate by Age and Gender (Bar Chart)
+### 12. Average Suicide Rate by Age and Gender (Bar Chart)
 Compares average suicide rates across age groups and genders, emphasizing higher rates in older males.
 
-### Total Suicides by Country (Bar Chart)
+### 13. Total Suicides by Country (Bar Chart)
 Ranks countries by total suicides, identifying those with the largest contributions to global figures. Countries with larger bars warrant closer attention for intervention.
 
 ## Managerial Implications
