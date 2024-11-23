@@ -12,9 +12,9 @@ Provide actionable insights for stakeholders and policymakers to focus on the mo
 
 ## Charts
 
-### Total Countries (101)
+### 1. Total Countries (101)
 Represents the total number of countries analyzed in the dataset, ensuring global coverage.
-### Total Suicides (6.748M)
+### 2. Total Suicides (6.748M)
 Displays the cumulative number of suicides recorded between 1987 and 2014.
 
 ### Suicide Count as a Proportion of Population
