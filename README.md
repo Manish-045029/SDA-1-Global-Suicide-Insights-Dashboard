@@ -8,7 +8,8 @@ Highlight global patterns and trends in suicide rates across countries, demograp
 Correlate economic factors like GDP per capita with suicide rates to explore socioeconomic influences.
 Provide actionable insights for stakeholders and policymakers to focus on the most affected regions, demographics, and economic contexts.
 
-![Global Suicide Insights (5)](https://github.com/user-attachments/assets/9662af6c-5503-4729-a6e6-c991f65f31b8)
+![Global Suicide Insights (6)](https://github.com/user-attachments/assets/8618db85-2c3b-4e6c-8156-b8616bf3c04e)
+
 
 
 
