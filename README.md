@@ -208,30 +208,41 @@ The chart shows a weak negative correlation between GDP per capita and suicide r
 •	Other Factors: Other factors such as unemployment, inequality, and access to firearms can also influence suicide rates.
 
 ### Insights:
-•	Age and Suicide: The highest proportion of suicide cases occur in the 35-54 age group, followed by the 55-74 age group. Younger demographics have a lower suicide rate. This suggests that middle-aged and older populations may experience unique stressors related to career, family responsibilities, financial pressures, and health issues.
-•	Generational Trends: The Boomers and Silent Generation have a higher suicide rate compared to younger generations. This likely reflects the historical events and socioeconomic pressures they faced. Younger generations, while facing different challenges, benefit from increased mental health awareness and resources.
-•	Gender Differences: Males have a significantly higher suicide rate than females across all age groups. This disparity highlights the need for a targeted approach to suicide prevention, addressing gender-specific issues and promoting a culture of emotional expression for men.
-•	Time Trends: Suicide rates fluctuate over time, with periods of increase linked to economic crises and social changes. While younger generations are experiencing higher rates in recent years, the impact of technology, social media, and isolation requires further investigation.
-•	Global Variation: Suicide rates vary significantly across countries, with Eastern Europe having the highest rates. This suggests that societal factors, economic conditions, cultural norms, and access to mental health resources all play a role.
-•	GDP and Suicide: While a weak negative correlation exists between GDP per capita and suicide rate, the relationship is not straightforward. High GDP does not guarantee low suicide rates, and focusing solely on economic development is insufficient for suicide prevention.
+#### Age and Suicide: 
+The highest proportion of suicide cases occur in the 35-54 age group, followed by the 55-74 age group. Younger demographics have a lower suicide rate. This suggests that middle-aged and older populations may experience unique stressors related to career, family responsibilities, financial pressures, and health issues.
+
+#### Generational Trends:
+The Boomers and Silent Generation have a higher suicide rate compared to younger generations. This likely reflects the historical events and socioeconomic pressures they faced. Younger generations, while facing different challenges, benefit from increased mental health awareness and resources.
+
+#### Gender Differences:
+Males have a significantly higher suicide rate than females across all age groups. This disparity highlights the need for a targeted approach to suicide prevention, addressing gender-specific issues and promoting a culture of emotional expression for men.
+
+#### Time Trends:
+Suicide rates fluctuate over time, with periods of increase linked to economic crises and social changes. While younger generations are experiencing higher rates in recent years, the impact of technology, social media, and isolation requires further investigation.
+
+#### Global Variation:
+Suicide rates vary significantly across countries, with Eastern Europe having the highest rates. This suggests that societal factors, economic conditions, cultural norms, and access to mental health resources all play a role.
+
+#### GDP and Suicide: 
+While a weak negative correlation exists between GDP per capita and suicide rate, the relationship is not straightforward. High GDP does not guarantee low suicide rates, and focusing solely on economic development is insufficient for suicide prevention.
 
 ## Managerial Implications
 
-### Targeted Policies for High-Risk Demographics:
+#### Targeted Policies for High-Risk Demographics:
 Insights from gender and age-group distributions can guide mental health programs tailored to vulnerable populations, such as older males.
 
-### Regional Prioritization:
+#### Regional Prioritization:
 Countries with high suicide rates (e.g., Russia) should receive focused attention with targeted initiatives like helplines, awareness campaigns, and funding for mental health services.
 
-### Economic Interventions:
+#### Economic Interventions:
 The correlation between GDP and suicide rates suggests that improving economic conditions, reducing inequality, and creating employment opportunities can alleviate suicide rates.
 
-### Generational Approaches:
+#### Generational Approaches:
 Analysis of generational trends highlights the importance of addressing specific generational challenges, such as job stability for Millennials or retirement support for Boomers.
 
-### Data-Driven Mental Health Campaigns:
+#### Data-Driven Mental Health Campaigns:
 Temporal trends and spikes can help governments and NGOs design proactive campaigns around high-risk periods, such as economic recessions or holidays.
 
-### Global Collaborations:
+#### Global Collaborations:
 Countries with similar trends can collaborate to share best practices and research findings to combat mental health challenges.
 
