@@ -17,18 +17,18 @@ The objectives of this analysis are to identify trends in suicide rates over tim
 
 ## Charts
 
-### 1. Total Countries (101)
+### Chart 1 Total Countries (101)
 Represents the total number of countries analyzed in the dataset, ensuring global coverage.
-### 2. Total Suicides (6.748M)
+### Chart 2 Total Suicides (6.748M)
 Displays the cumulative number of suicides recorded between 1987 and 2014.
 
-### 3. Suicide Count as a Proportion of Population
+### Chart 3 Suicide Count as a Proportion of Population
 Visualizes suicide counts relative to the world population during the period, emphasizing the gravity of the issue.
 
-### 4. Country with Most Suicides (Russian Federation)
+### Chart 4 Country with Most Suicides (Russian Federation)
 Highlights the country with the highest recorded suicide count, focusing attention on potential regional concerns.
 
-### Chart 5: Age-Wise Distribution
+### Chart 5 Age-Wise Distribution
 The chart represents the distribution of suicide cases across various age groups, ranging from 5–14 years to 75+ years. It uses a donut chart format to show the proportion of each age group.
 
 #### Interpretation of Chart
@@ -48,7 +48,7 @@ The prevalence in this group could be linked to factors like health issues, lone
 •	Mental Health Awareness Gap: Limited awareness or access to mental health resources in older generations could contribute to suicides in the elderly demographic.
 •	Societal Expectations: The societal pressures on younger age groups, while significant, are potentially mitigated by supportive family systems.
 
-### Chart 6: Generation-Wise Distribution
+### Chart 6 Generation-Wise Distribution
 The chart displays suicide cases segmented by generational cohorts, including Silent, Boomers, Generation X, Millennials, and the G.I. Generation.
 
 #### Interpretation of Chart
@@ -67,7 +67,7 @@ These cohorts, being younger during the data collection period, might not yet fa
 •	Evolving Mental Health Awareness: The rise of mental health resources in recent decades could contribute to lower suicide rates in younger generations.
 •	Life Stage Variations: The Boomers and Silent Generation represent an older demographic during the data collection period, correlating with insights from the age-wise chart.
 
-### Chart 7. Gender-wise Suicide Count
+### Chart 7 Gender-wise Suicide Count
 This is a donut chart showing the proportion of suicides based on gender. Two distinct sections represent the suicide count for males and females, using different colors for differentiation.
 
 #### Interpretation of Chart
@@ -82,7 +82,7 @@ The larger segment of the donut chart corresponds to males, indicating a signifi
 2.	Stigma Around Mental Health: Men may be less likely to seek help for mental health issues due to societal stigma.
 3.	Economic Factors: Greater financial stress or unemployment could disproportionately affect males in certain regions.
 
-### Chart 8. Suicide Rates Over Generations by Year
+### Chart 8 Suicide Rates Over Generations by Year
 This is a heatmap chart showing suicide rates across various generations over different years. The intensity of color represents the mean suicide rate per 100k population, with darker colors indicating higher rates.
 
 #### Interpretation of Chart
