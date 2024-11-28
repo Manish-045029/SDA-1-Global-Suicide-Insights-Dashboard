@@ -117,10 +117,12 @@ This is a line chart showing the number of suicides by age group and gender. The
 
 #### Insights gained from the chart:
 •	This chart suggests that men are more likely to commit suicide than women across all age groups. This is a well-documented finding, and there are a number of potential explanations for this difference. For example, men are often socialized to be more stoic and to hide their emotions, which may make it more difficult for them to seek help when they are struggling. Men are also more likely to work in high-stress jobs, which can increase their risk of suicide.
+
 •	The chart also suggests that the suicide rate is generally higher for people in their 30s and 40s, then decreases with age. This finding could be related to the fact that this is often a time of great change and stress in people’s lives, as they are navigating career and family responsibilities.
 
 #### Reasons 
 •	Socialization and gender roles: Men are often socialized to be more stoic and to hide their emotions, which may make it more difficult for them to seek help when they are struggling. This can lead to men feeling more isolated and hopeless, which increases their risk of suicide.
+
 •	Work and employment: Men are more likely to work in high-stress jobs, which can increase their risk of suicide. They are also more likely to be unemployed, which can lead to feelings of failure and worthlessness.
 
 ### Chart 10 Suicide Trends in countries
