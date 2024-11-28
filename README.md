@@ -30,6 +30,9 @@ Highlights the country with the highest recorded suicide count, focusing attenti
 
 ### Chart 5 Age-Wise Distribution
 The chart represents the distribution of suicide cases across various age groups, ranging from 5–14 years to 75+ years. It uses a donut chart format to show the proportion of each age group.
+![Gender-wise Suicide Count](https://github.com/user-attachments/assets/a7a0687e-f276-48c7-a0c8-3aef511b3b0d)
+
+
 
 #### Interpretation of Chart
 •	The age group 35–54 years has the largest proportion, indicating a significant share of suicide cases within this demographic.
@@ -50,6 +53,10 @@ The prevalence in this group could be linked to factors like health issues, lone
 
 ### Chart 6 Generation-Wise Distribution
 The chart displays suicide cases segmented by generational cohorts, including Silent, Boomers, Generation X, Millennials, and the G.I. Generation.
+![Gender-wise Suicide Count](https://github.com/user-attachments/assets/0e4a6825-a765-4ab1-995f-b44d02376b2d)
+
+
+
 
 #### Interpretation of Chart
 •	Boomers (2,284,498 cases) account for the largest share of suicides, followed by the Silent Generation (1,781,744 cases).
@@ -69,6 +76,8 @@ These cohorts, being younger during the data collection period, might not yet fa
 
 ### Chart 7 Gender-wise Suicide Count
 This is a donut chart showing the proportion of suicides based on gender. Two distinct sections represent the suicide count for males and females, using different colors for differentiation.
+![Generation Wise Distribution nbsp; (1)](https://github.com/user-attachments/assets/c46ac3ed-bea1-4b8e-96b7-a6d0fb9b8f0b)
+
 
 #### Interpretation of Chart
 The larger segment of the donut chart corresponds to males, indicating a significantly higher suicide count compared to females. This reflects a gender disparity in suicide occurrences.
