@@ -121,8 +121,8 @@ This is a line chart showing the number of suicides by age group and gender. The
 •	Socialization and gender roles: Men are often socialized to be more stoic and to hide their emotions, which may make it more difficult for them to seek help when they are struggling. This can lead to men feeling more isolated and hopeless, which increases their risk of suicide.
 •	Work and employment: Men are more likely to work in high-stress jobs, which can increase their risk of suicide. They are also more likely to be unemployed, which can lead to feelings of failure and worthlessness.
 
-### Chart 10 Suicide Trends in Russia, the US and China
-The line chart shows the yearly suicide trends in Russia (green line), the US (red and blue lines), and China (pink line) from 1987 to 2014.
+### Chart 10 Suicide Trends in countries
+The line chart shows the yearly suicide trends of countries from 1987 to 2014.
 
 #### Interpretation of the chart:
 •	Russia: Russia has the highest suicide rate among the three countries, peaking around 1994-1995. There's a significant decline in suicide rates from 1996 onwards, although the rate remains relatively high compared to other countries.
