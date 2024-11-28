@@ -229,10 +229,16 @@ While a weak negative correlation exists between GDP per capita and suicide rate
 ## Managerial Implications
 
 #### Targeted Policies for High-Risk Demographics:
-Insights from gender and age-group distributions can guide mental health programs tailored to vulnerable populations, such as older males.
+Insights from gender and age-group distributions can guide mental health programs tailored to vulnerable populations, such as older males with prevention efforts on age groups most at risk (35-54 years and 55-74 years).
+
+#### Promote Mental Health Awareness:
+Develop campaigns and initiatives to increase awareness about mental health issues across generations, particularly for younger generations.
+
+#### Addressing Gender Differences:
+Emphasize gender-sensitive programs that encourage men to seek help for mental health issues and promote healthy emotional expression.
 
 #### Regional Prioritization:
-Countries with high suicide rates (e.g., Russia) should receive focused attention with targeted initiatives like helplines, awareness campaigns, and funding for mental health services.
+Countries with high suicide rates (Russia,Us,Japan,France) should receive focused attention with targeted initiatives like helplines, awareness campaigns, and funding for mental health services.
 
 #### Economic Interventions:
 The correlation between GDP and suicide rates suggests that improving economic conditions, reducing inequality, and creating employment opportunities can alleviate suicide rates.
