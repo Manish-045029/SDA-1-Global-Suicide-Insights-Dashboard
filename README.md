@@ -43,7 +43,7 @@ This age group may face stressors like career challenges, family responsibilitie
 2.	Significant Impact on the Elderly (55–74 years):
 The prevalence in this group could be linked to factors like health issues, loneliness, or a sense of purpose post-retirement.
 
-#### Potential Reasons for the Insights
+#### Reasons
 •	Economic Pressures: Financial difficulties, job loss, or professional burnout may disproportionately affect the 35–54 age bracket.
 •	Mental Health Awareness Gap: Limited awareness or access to mental health resources in older generations could contribute to suicides in the elderly demographic.
 •	Societal Expectations: The societal pressures on younger age groups, while significant, are potentially mitigated by supportive family systems.
@@ -62,7 +62,7 @@ These generations were shaped by major global events like wars, economic recessi
 2.	Lower Numbers for Millennials and Generation Z:
 These cohorts, being younger during the data collection period, might not yet face long-term challenges faced by older generations. However, they are also more exposed to modern mental health awareness campaigns.
 
-#### Potential Reasons for the Insights
+#### Reasons 
 •	Generational Stressors: Boomers and the Silent Generation likely faced cumulative stress from societal transformations, wars, and technological shifts without the modern tools for coping.
 •	Evolving Mental Health Awareness: The rise of mental health resources in recent decades could contribute to lower suicide rates in younger generations.
 •	Life Stage Variations: The Boomers and Silent Generation represent an older demographic during the data collection period, correlating with insights from the age-wise chart.
@@ -77,7 +77,7 @@ The larger segment of the donut chart corresponds to males, indicating a signifi
 •	Males have a higher rate of suicide compared to females.
 •	This could reflect underlying social, psychological, or economic factors that differentially affect males.
 
-#### Potential Reasons for the Insights
+#### Reasons 
 1.	Social Expectations: Traditional gender roles may pressure men to meet societal expectations, leading to stress and mental health challenges.
 2.	Stigma Around Mental Health: Men may be less likely to seek help for mental health issues due to societal stigma.
 3.	Economic Factors: Greater financial stress or unemployment could disproportionately affect males in certain regions.
@@ -94,7 +94,7 @@ This is a heatmap chart showing suicide rates across various generations over di
 •	The prevalence of suicides is not constant but changes with generational shifts.
 •	Generations like Generation X and Millennials seem more prone to higher rates in specific periods.
 
-#### Potential Reasons for the Insights
+#### Reasons
 1.	Economic Crises: Global financial challenges, such as the 2008 recession, could have contributed to increased suicides in affected generations.
 2.	Technology and Isolation: Generations exposed to rapid technological growth (e.g., Millennials and Gen Z) might face unique mental health challenges due to increased social media use and digital isolation.
 3.	Cultural Shifts: Changing societal norms might influence generational stress differently, with younger generations facing distinct pressures.
@@ -117,7 +117,7 @@ This is a line chart showing the number of suicides by age group and gender. The
 •	This chart suggests that men are more likely to commit suicide than women across all age groups. This is a well-documented finding, and there are a number of potential explanations for this difference. For example, men are often socialized to be more stoic and to hide their emotions, which may make it more difficult for them to seek help when they are struggling. Men are also more likely to work in high-stress jobs, which can increase their risk of suicide.
 •	The chart also suggests that the suicide rate is generally higher for people in their 30s and 40s, then decreases with age. This finding could be related to the fact that this is often a time of great change and stress in people’s lives, as they are navigating career and family responsibilities.
 
-#### Potential reasons for the insights:
+#### Reasons 
 •	Socialization and gender roles: Men are often socialized to be more stoic and to hide their emotions, which may make it more difficult for them to seek help when they are struggling. This can lead to men feeling more isolated and hopeless, which increases their risk of suicide.
 •	Work and employment: Men are more likely to work in high-stress jobs, which can increase their risk of suicide. They are also more likely to be unemployed, which can lead to feelings of failure and worthlessness.
 
@@ -134,7 +134,7 @@ The line chart shows the yearly suicide trends of countries from 1987 to 2014.
 •	US: The US suicide trends are more complex and require further investigation. The discrepancy between the two lines (red and blue) representing the US, might indicate variations in specific demographics or data collection methods.
 •	China: China's suicide rate trends could reflect a combination of factors, including changes in economic conditions, urbanization, and social support systems. The rise in suicides until 2004 might be associated with the rapid economic growth and social changes of that period, while the decline after 2004 could suggest some improvement in coping mechanisms and mental health awareness.
 
-#### Potential reasons for insights:
+#### Reasons
 •	Economic conditions: Economic downturns, unemployment, and income inequality are often linked to higher suicide rates.
 •	Social support systems: Strong social support networks and access to mental health services can play a significant role
 
@@ -146,7 +146,8 @@ The chart reveals a significant difference in suicide rates between males and fe
 
 #### Insights:
 Males are at a significantly higher risk of suicide than females across all age groups, highlighting a gender disparity in suicidal behavior.
-Potential Reasons: Numerous factors contribute to the higher suicide rates among men, including:
+### Reasons:
+Numerous factors contribute to the higher suicide rates among men, including:
 •	Societal pressures: Men often face societal pressures to suppress emotions and maintain a strong facade, leading to feelings of isolation and lack of support.
 •	Higher risk-taking behaviors: Men are more likely to engage in risky behaviors, including alcohol abuse, substance use, and dangerous activities, which can contribute to suicide risk.
 •	Unequal access to mental health services: Men are less likely to seek mental health help due to societal stigma, leading to untreated mental health conditions that can increase suicide risk.
@@ -158,7 +159,7 @@ The chart shows that the United States has the highest number of suicides for al
 
 The chart shows that the US and Japan have a high number of suicides across all age groups. This suggests that there are some underlying factors in these countries that contribute to suicide risk. The higher suicide rates in older age groups could be related to factors such as chronic illness, social isolation, and financial stress.
 
-#### Possible reasons for the insights:
+#### Reasons for the insights:
 •	US: High rates of gun ownership, mental health stigma, and economic inequality.
 •	Japan: High social pressure, workaholism, and a culture of shame.
 
@@ -182,7 +183,8 @@ The potential reasons for this trend could be complex and multi-faceted, includi
 •	Cultural factors: Some cultures may have varying levels of stigma associated with mental health, potentially discouraging individuals from seeking help.
 •	Alcohol consumption: Higher rates of alcohol consumption in Eastern Europe could contribute to suicide risk.
 •	Historical events: Trauma from historical events, such as the collapse of the Soviet Union, could have lingering impacts on mental health.
-Region: North America
+
+#### Region: North America
 •	Description: The map shows relatively lower suicide rates in North America, with the exception of a few areas in the northern United States and Canada.
 •	Interpretation: This suggests that suicide rates are generally lower in North America compared to Eastern Europe.
 •	Insights: While the rates are relatively lower, it's important to acknowledge the impact of mental health on individuals and communities. Factors such as:
