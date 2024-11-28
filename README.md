@@ -64,7 +64,9 @@ These cohorts, being younger during the data collection period, might not yet fa
 
 #### Reasons 
 •	Generational Stressors: Boomers and the Silent Generation likely faced cumulative stress from societal transformations, wars, and technological shifts without the modern tools for coping.
+
 •	Evolving Mental Health Awareness: The rise of mental health resources in recent decades could contribute to lower suicide rates in younger generations.
+
 •	Life Stage Variations: The Boomers and Silent Generation represent an older demographic during the data collection period, correlating with insights from the age-wise chart.
 
 ### Chart 7 Gender-wise Suicide Count
